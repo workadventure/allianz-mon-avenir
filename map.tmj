@@ -1594,6 +1594,72 @@
                  "width":134,
                  "x":685.333333333333,
                  "y":1784.66666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":192,
+                 "id":31,
+                 "name":"FrenchGarden1",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"FrenchGarden1"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":704,
+                 "y":608
+                }, 
+                {
+                 "class":"area",
+                 "height":192,
+                 "id":32,
+                 "name":"FrenchGarden2",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"FrenchGarden2"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":1600,
+                 "y":608
+                }, 
+                {
+                 "class":"area",
+                 "height":278,
+                 "id":33,
+                 "name":"BBQ",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"BBQ"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":265,
+                 "x":1547,
+                 "y":2496
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1873,7 +1939,7 @@
          "y":0
         }],
  "nextlayerid":71,
- "nextobjectid":31,
+ "nextobjectid":34,
  "orientation":"orthogonal",
  "properties":[
         {
