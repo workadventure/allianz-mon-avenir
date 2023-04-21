@@ -9,6 +9,13 @@ WA.onInit().then(() => {
     console.log('Scripting API ready');
     console.log('Player tags: ', WA.player.tags)
 
+    WA.room.area.onEnter("Drinking_Fountain").subscribe(() => {
+        WA.room.showLayer("anim_drinking_fountain")
+    })
+    WA.room.area.onLeave("Drinking_Fountain").subscribe(() => {
+        WA.room.hideLayer("anim_drinking_fountain")
+    })
+
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
