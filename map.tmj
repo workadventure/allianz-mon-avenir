@@ -1950,7 +1950,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Projet de m\u00e9tavers Allianz appel\u00e9 Mon avenir, pour la squad des offres financi\u00e8res."
         }, 
         {
          "name":"mapImage",
@@ -1960,7 +1960,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Mon avenir"
         }, 
         {
          "name":"script",
